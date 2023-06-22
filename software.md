@@ -192,3 +192,7 @@ install.packages('brms')
 
 7. Test the `brms` code above, i.e. with the `M <- brm(x ~ 1, data = data_df)`.
 
+
+## A possible fallback
+
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/mark-andrews/intro_bda_qub/HEAD?urlpath=rstudio)
